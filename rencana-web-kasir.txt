@@ -1,6 +1,0 @@
-RENCANA WEB KASIR
-
-- Menu utama
-- Menu login
-- Menu sign-up
-- Daftar harga barang
